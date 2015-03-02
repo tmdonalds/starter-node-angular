@@ -1,6 +1,7 @@
 {
-  "name": "starter-node-angular",
+  "name": "yourchurch",
   "main": "server.js",
+  "version" : "0.0.0",
   "dependencies": {
     "body-parser": "~1.4.2",
     "express": "~4.5.1",
